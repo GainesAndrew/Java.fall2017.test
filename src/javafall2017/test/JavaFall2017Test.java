@@ -15,6 +15,7 @@ public class JavaFall2017Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("hello");
         // TODO code application logic here
         //JavaFall2017Test app = new JavaFall2017Test();
         //app.run();
